@@ -1,0 +1,91 @@
+PDP 8/E:
+    Completed Tasks: 
+        - Power Supply Testing and Verification
+        - Chassis Reassembly
+        - Basic Diagnostics 
+    Upcoming Tasks: 
+        - Investigate and Repair spontaneous stuck bit
+        - Complete Full Diagnostics
+        - Build Memory Extension
+        - Acquire RK8E controller
+        - Acquire RX8E controller 
+        - Integrate and Test RK05 controller 
+PDP 11/05: 
+    Completed Tasks: 
+        - Power Supply Repair
+        - Current Loop Adapter cable constructed 
+        - All DEC diagnostics run
+    Upcoming Tasks: 
+        - Troubleshooting CPU function
+        - Installing Extended Backplanes
+        - Installing RK11 controller and Backplane
+        - Integration with RX02 and RK05 Disks 
+
+PDP 11/44: 
+
+NOVA 2:
+    Completed Tasks:
+        - IM5600 Ordered (x10).
+        - Data I/O 29B ordered. 
+    Upcoming Tasks: 
+        - Program and replace Con 0 Rom 
+        - Reverse Engineer and reproduce Nova 2 SRAM board. 
+        - Build new ram board with FeRAM. 
+        - Create Demo programs so the N2 can go on display at VCF.
+        - Fix missing Con 1 roms 
+NOVA 4: 
+    Completed Tasks:
+        - Diagnostics 
+        - Tape Transport power supply repaired
+        - Basic, and other test programs run from the chassis
+    Upcoming Tasks: 
+    - Integrate one Fujitsu Eagle into the machine 
+        - 1x BMX3 adapter required, In stock.
+            - Need configuration tapes, requires the ability to produce tape. I have some tape equipment, SCSI and other adapters required.
+            - Reproduce backplane adapter boards for BMX3. 
+        - New SMD Cable Set required 
+        - mounting rails for the Fuji Eagle need modification to fit into the S/140 chassis. Should be modifiable with dremel.
+    - Find new floppy drive? 
+
+ECLIPSE S/130: 
+    Completed Tasks: 
+        - Chassis dissasembly
+        - Rust removal
+        - Cleaning
+    Upcoming Tasks:
+        - New power supply side project
+        - Chassis reassembly
+        - Remove old WW connections
+        - Re-assemble Computer
+        - Diagnostics 
+
+ECLIPSE S/140: 
+    Completed Tasks: 
+        - CPU Tests completed 
+        - FPS 100 integrated in system and partially tested.
+        - Tape Drive rebuit with spares from second tape transport
+        - Tape Drive initial testing
+    Upcoming Tasks:
+        Chassis: 
+            - Repair power supply
+            - Add insulating sheet to bottom of chassis. Old insulating sheet broke. (Packing Tape?)
+        Tape: 
+            - Order new pressure switches to DG specifications
+            - Calibrate motor torque
+            - Adjust new hubs and motors
+        Disk: 
+            - Make ARZ-1 Configuration Tapes
+            - Integrate ARZ-1 Controller
+            - Build new SMD cables. 
+            - Modify Fujitsu Eagle rails for the DG Rack Units
+            - 
+
+
+ECLIPSE MV/9500: 
+
+HP 1000F: 
+
+FPS 100: 
+
+AP120B:
+
