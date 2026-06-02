@@ -88,17 +88,39 @@ ECLIPSE S/140:
             - Integrate ARZ-1 Controller
             - Build new SMD cables. 
             - Modify Fujitsu Eagle rails for the DG Rack Units
-            - 
-
 
 ECLIPSE MV/9500: 
     Completed Tasks:   
-        
+        - Repaired Broken Power Supply Pins
+        - Tested 9500 CPU
     Upcoming Tasks:
+        - Add SCSI 
+        - Add Tape For Microcode
 
 HP 1000F: 
-
+    Completed Tasks: 
+        - Obtained FPS interface card
+        - Obtained Memory Controller 
+        - Obtained missing memory parts
+    Upcoming Tasks: 
+        - Find memory array
+        - Find Power Supply
+        - Figure out Storage Solution
 FPS 100: 
-
+    Completed Tasks: 
+        - Integrate FPS100 with Eclipse
+        - Reverse Engineer Interface
+        - Run Test Code
+    Upcoming Tasks: 
+        - Order More spares
+        - Find and Fix stuck bit
+        - Continue Development
 AP120B:
-
+    Completed Tasks: 
+        - Obtain Backplane 
+        - Obtain Partial Boardset
+    Upcoming Tasks: 
+        - Build New Chassis
+        - Replace Power Supplies 
+        - Rebuild 2 missing PCBs 
+        - Reverse Engineer HP1000 Interface
