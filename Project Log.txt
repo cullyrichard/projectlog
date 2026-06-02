@@ -16,9 +16,9 @@ PDP 11/05:
         - Current Loop Adapter cable constructed 
         - All DEC diagnostics run
     Upcoming Tasks: 
-        - Troubleshooting CPU function
-        - Installing Extended Backplanes
-        - Installing RK11 controller and Backplane
+        - Troubleshoot CPU function
+        - Install Extended Backplanes
+        - Install RK11 controller and Backplane
         - Integration with RX02 and RK05 Disks 
 
 PDP 11/44: 
