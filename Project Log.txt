@@ -35,10 +35,13 @@ PDP 11/44:
         - Install OS on RA82
 NOVA 2:
     Completed Tasks:
+        - Ferroresonant Capacitor Replaced
+        - Chassis / Front Panel Cleaned
+        - Power Supply Tested
         - IM5600 Ordered (x10).
         - Data I/O 29B ordered. 
-    Upcoming Tasks: 
-        - Program and replace Con 0 Rom (????) 
+        - Con 1 Rom Replaced (Not the source of the issue)
+Upcoming Tasks: 
         - Reverse Engineer and reproduce Nova 2 SRAM board. 
         - Build new ram board with FeRAM. 
         - Create Demo programs so the N2 can go on display at VCF.
