@@ -42,10 +42,10 @@ NOVA 2:
         - Data I/O 29B ordered. 
         - Con 1 Rom Replaced (Not the source of the issue)
 Upcoming Tasks: 
+        - Complete Troubleshooting of Data Bus
         - Reverse Engineer and reproduce Nova 2 SRAM board. 
         - Build new ram board with FeRAM. 
-        - Create Demo programs so the N2 can go on display at VCF.
-        - Fix missing Con 1 roms 
+        - Create Demo programs so the N2 can go on display at VCF. 
 NOVA 4: 
     Completed Tasks:
         - Diagnostics 
