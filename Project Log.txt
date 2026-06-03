@@ -10,6 +10,7 @@ PDP 8/E:
         - Acquire RK8E controller
         - Acquire RX8E controller 
         - Integrate and Test RK05 controller 
+
 PDP 11/05: 
     Completed Tasks: 
         - Power Supply Repair
@@ -46,6 +47,7 @@ Upcoming Tasks:
         - Reverse Engineer and reproduce Nova 2 SRAM board. 
         - Build new ram board with FeRAM. 
         - Create Demo programs so the N2 can go on display at VCF. 
+
 NOVA 4: 
     Completed Tasks:
         - Diagnostics 
@@ -109,6 +111,7 @@ HP 1000F:
         - Find memory array
         - Find Power Supply
         - Figure out Storage Solution
+
 FPS 100: 
     Completed Tasks: 
         - Integrate FPS100 with Eclipse
@@ -118,6 +121,7 @@ FPS 100:
         - Order More spares
         - Find and Fix stuck bit
         - Continue Development
+
 AP120B:
     Completed Tasks: 
         - Obtain Backplane 
