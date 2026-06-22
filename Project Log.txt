@@ -40,10 +40,11 @@ NOVA 2:
         - Chassis / Front Panel Cleaned
         - Power Supply Tested
         - IM5600 Ordered (x10).
-        - Data I/O 29B ordered. 
+        - Data I/O 29A ordered. 
         - Con 1 Rom Replaced (Not the source of the issue)
+        - Fixed stuck memory and accumulator bits
 Upcoming Tasks: 
-        - Complete Troubleshooting of Data Bus
+        - Figure out why the machine does not run. 
         - Reverse Engineer and reproduce Nova 2 SRAM board. 
         - Build new ram board with FeRAM. 
         - Create Demo programs so the N2 can go on display at VCF. 
@@ -52,7 +53,7 @@ NOVA 4:
     Completed Tasks:
         - Diagnostics 
         - Tape Transport power supply repaired
-        - Basic, and other test programs run from the chassis
+        - Basic, and other test programs run from the chassis. 
     Upcoming Tasks: 
     - Integrate one Fujitsu Eagle into the machine 
         - 1x BMX3 adapter required, In stock.
@@ -108,7 +109,7 @@ HP 1000F:
         - Obtained Memory Controller 
         - Obtained missing memory parts
     Upcoming Tasks: 
-        - Find memory array
+        - Find memory array - In the works. 
         - Find Power Supply
         - Figure out Storage Solution
 
