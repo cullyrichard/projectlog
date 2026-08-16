@@ -34,7 +34,7 @@ PDP 11/44:
         - Add RX02
         - Add Ethernet
         - Install OS on RA82
-NOVA 2:
+NOVA 2: - Project Suspended 
     Completed Tasks:
         - Ferroresonant Capacitor Replaced
         - Chassis / Front Panel Cleaned
@@ -97,7 +97,7 @@ ECLIPSE S/140:
             - Build new SMD cables. 
             - Modify Fujitsu Eagle rails for the DG Rack Units
 
-ECLIPSE MV/9500: 
+ECLIPSE MV/9500: - Project Suspended 
     Completed Tasks:   
         - Repaired Broken Power Supply Pins
         - Tested 9500 CPU
