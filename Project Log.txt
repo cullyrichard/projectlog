@@ -34,6 +34,7 @@ PDP 11/44:
         - Add RX02
         - Add Ethernet
         - Install OS on RA82
+
 NOVA 2: - Project Suspended 
     Completed Tasks:
         - Ferroresonant Capacitor Replaced
@@ -48,14 +49,19 @@ Upcoming Tasks:
         - Reverse Engineer and reproduce Nova 2 SRAM board. 
         - Build new ram board with FeRAM. 
         - Create Demo programs so the N2 can go on display at VCF. 
+
 NOVA 3: 
         -Works lol 
         -check MMU 
+        -Display Demos etc
+
 NOVA 4: 
-    Completed Tasks:
+    
+        Completed Tasks:
         - Diagnostics 
         - Tape Transport power supply repaired
         - Basic, and other test programs run from the chassis. 
+    
     Upcoming Tasks: 
     - Integrate one Fujitsu Eagle into the machine 
         - 1x BMX3 adapter required, In stock.
